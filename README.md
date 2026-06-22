@@ -13,9 +13,9 @@ Este repositório contém o código-fonte e a documentação de um protótipo fu
 - [Objetivos](#-objetivos)
 - [Arquitetura do Sistema](#%EF%B8%8F-arquitetura-do-sistema)
 - [Componentes Utilizados](#%EF%B8%8F-componentes-utilizados)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Análise de Resultados](#-análise-de-resultados)
+  
+
+
 
 ---
 
